@@ -1,0 +1,25 @@
+{
+  "name": "reactblog",
+  "version": "1.0.0",
+  "description": "a jekyll style blog component set and script set for any react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ReactBlog/blog-engine.git"
+  },
+  "keywords": [
+    "react",
+    "blog",
+    "engine",
+    "components"
+  ],
+  "author": "claytonmstewart@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReactBlog/blog-engine/issues"
+  },
+  "homepage": "https://github.com/ReactBlog/blog-engine#readme"
+}

@@ -1,0 +1,1 @@
+// look at n_m/react-scripts/bin/react-scripts.js and emulate how pulls script into main path command
